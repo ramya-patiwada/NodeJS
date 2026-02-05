@@ -1,5 +1,4 @@
 const {calculateSum,calculateMultiply}=require("./calculate/index.js");
-
 require("./xyz.js");
 const data=require("./data.json");
 console.log(data);
